@@ -1,4 +1,4 @@
-# SimpleVoiceDistorter
+# Simple Mic Distorter
 very simple program to change pitch and gain of voice then put it into a virtual cable because every other one online sucks
 
 upon launching if you dont have the virtual cable installed it will give you the option to download and open it automatically
